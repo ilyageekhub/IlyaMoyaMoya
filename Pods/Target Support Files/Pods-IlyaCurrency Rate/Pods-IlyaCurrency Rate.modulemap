@@ -1,0 +1,6 @@
+framework module Pods_IlyaCurrency_Rate {
+  umbrella header "Pods-IlyaCurrency Rate-umbrella.h"
+
+  export *
+  module * { export * }
+}
